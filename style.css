@@ -1,0 +1,42 @@
+		*{
+ margin : 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+
+@media screen and (max-width: 704px) {
+    
+}
+
+body {
+	margin: 50px;
+	margin-left: 80px;
+	font-family: GT-Pressura-Mono-Regular, Courier New, monospace;
+}
+
+
+h1 {
+	font-size: 14pt;
+
+}
+
+p, ul, ol, details {
+	margin-bottom: 20px;
+}
+
+a {
+	color: saddlebrown;
+}
+
+a:visited {
+	color: hotpink;
+}
+
+
+img {
+	width: 350px;
+}
+
+img:hover {
+	filter:grayscale(100%);
+}
