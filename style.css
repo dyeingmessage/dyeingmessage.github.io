@@ -17,7 +17,7 @@ body {
 
 h1 {
 	font-size: 13pt;
-	margin-top: 40px;
+	margin-top: 30px;
 	font-weight: normal;
 }
 
@@ -28,7 +28,7 @@ img {
 
 .msg_1 {
 	z-index: 100000000;
-	top: 10%;
+	top: 12%;
 	left: 10%;
 }
 
@@ -55,4 +55,10 @@ img {
 
 @media screen and (max-width: 704px) {
     
+img {
+	width: 300px;
+}
+
+
+
 }
