@@ -78,11 +78,16 @@ img {
  }   
 
  table {
- 	width: 300px;
+ 	width: 360px;
+ 	border: 1px solid black;
  }
 
-img {
-	width: 60px;
+ td, tr {
+	border: 1px solid black;
+}
+
+ img {
+	width: 80px;
 }
 
 .main_img {
