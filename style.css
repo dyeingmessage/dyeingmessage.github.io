@@ -17,11 +17,12 @@ body {
 h1 {
 	font-size: 13pt;
 	margin-top: 40px;
+	font-weight: normal;
 }
 
 img {
 	position: absolute;
-	width: 400px;
+	width: 300px;
 }
 
 .msg_1 {
