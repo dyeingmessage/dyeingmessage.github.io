@@ -64,25 +64,25 @@ img {
 }
 
 .inner {
-  padding: 15px 20px;
+  padding: 10px 15px;
 }
 
 .inner p {
 	margin-bottom: 12px;
 }
 
-@media screen and (max-width: 704px) {
+@media screen and (max-width: 600px) {
  
  body {
  	width: 90%;
  }   
 
  table {
- 	width: 380px;
+ 	width: 300px;
  }
 
 img {
-	width: 90px;
+	width: 60px;
 }
 
 .main_img {
