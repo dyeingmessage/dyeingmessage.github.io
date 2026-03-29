@@ -13,7 +13,8 @@ body {
 	margin: auto;
 	font-family: GT-Pressura-Mono-Regular, Courier New, monospace;
 	line-height: 1.4;
-	font-size: 12px;
+	font-size: 13px;
+	margin-bottom: 50px;
 }
 
 
@@ -41,7 +42,6 @@ table {
 	border: 0.5px solid black;
 	border-collapse: collapse;
 	margin: auto;
-	margin-bottom: 50px;
 }
 
 td, tr {
