@@ -11,6 +11,7 @@ body {
 	word-break: keep-all;
 	margin: auto;
 	font-family: GT-Pressura-Mono-Regular, Courier New, monospace;
+	line-height: 1.4;
 }
 
 
@@ -22,7 +23,7 @@ h1 {
 
 img {
 	position: absolute;
-	width: 300px;
+	width: 400px;
 }
 
 .msg_1 {
