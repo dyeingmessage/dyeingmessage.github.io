@@ -73,9 +73,6 @@ img {
 
 @media screen and (max-width: 600px) {
  
- body {
- 	width: 70%;
- }   
 
  table {
  	width: 300px;
